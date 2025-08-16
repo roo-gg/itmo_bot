@@ -1,0 +1,10 @@
+Python==3.11.13             
+PyTorch==2.6.0+cu124         
+NumPy==2.0.2              
+Transformers==4.55.1              
+Sentence-Transformers == 5.1.0               
+Qdrant Client==1.15.1       
+json==2.0.9         
+re==2.2.1 
+sentence_transformers.SentenceTransformer: 5.1.0
+telebot==4.28.0
